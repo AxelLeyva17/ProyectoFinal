@@ -1,0 +1,9 @@
+/boceto/
+/temp/
+dbconfig.php
+prueba.php
+prueba*
+/.vscode
+*.json
+uploads/*
+proccess_view
